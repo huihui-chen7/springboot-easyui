@@ -1,0 +1,5 @@
+com\chenhui\Admin\service\Impl\AdminServiceImpl.class
+com\chenhui\controler\AdminControl.class
+com\chenhui\Admin\service\AdminService.class
+com\chenhui\Admin\dao\AdminDao.class
+com\chenhui\application\BeginApplication.class
